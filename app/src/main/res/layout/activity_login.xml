@@ -163,13 +163,13 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <TextView
-        android:id="@+id/dontHaveAcct"
+        android:id="@+id/donthaveaccount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginBottom="8dp"
-        android:text="@string/dontHaveAccountString"
+        android:text="@string/don_t_have_an_account_"
         android:textColor="@color/primaryGreyTwo"
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/createAcct"

@@ -9,7 +9,7 @@
     <string name="orString">OR</string>
     <string name="signInFacebookDesc">Sign in with facebook logo</string>
     <string name="signInGoogleDesc">Sign in with google logo</string>
-    <string name="dontHaveAccountString">Don\'t have an account?</string>
+
     <string name="createAccountString">Create account</string>
     <string name="nameHint">Name</string>
     <string name="registerBtnString">Create Account</string>
@@ -29,4 +29,6 @@
     <string name="arrow">Arrow</string>
     <string name="humidity_24_">Humidity: 24%</string>
     <string name="gas_levels_safe">Gas Levels: Safe</string>
+    <string name="don_t_have_an_account_">Don\'t have an account?</string>
+
 </resources>

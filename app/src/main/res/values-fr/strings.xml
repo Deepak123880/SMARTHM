@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smarty</string>
+    <string name="loginTitle">Bienvenue chez Smarty</string>
+    <string name="loginSubTitle">Veuillez vous connecter pour vois vos appareils</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Mot de passe</string>
+    <string name="forgotPasswordString">Mot de passe oublié?</string>
+    <string name="signInBtnString">Se connecter</string>
+    <string name="orString">OU</string>
+    <string name="signInFacebookDesc">Connectez-vous avec le logo Facebook</string>
+    <string name="signInGoogleDesc">Connectez-vous avec le logo Google</string>
+    <string name="don_t_have_an_account_">Vous n \'avez pas de compte?</string>
+    <string name="createAccountString">Créer un compte?</string>
+    <string name="nameHint">Nom</string>
+    <string name="registerBtnString">Créer un compte?</string>
+    <string name="registerSubTitle">Entrez vos informations pour créer un compte</string>
+    <string name="registerPageToolbarTitle">Sinscrire</string>
+    <string name="temperature_30_c">Température: 30 C</string>
+    <string name="arrow7">FLÈCHE7</string>
+    <string name="gas">gaz</string>
+    <string name="humidity_24">Humidité 24%</string>
+    <string name="humid">humide</string>
+    <string name="dist">Dist</string>
+    <string name="arrow5">Flèche 5</string>
+    <string name="sensor_readings">Lectures du capteur</string>
+    <string name="no_trespassers">Pas dintrus</string>
+    <string name="arrow4">Flèche 4</string>
+    <string name="arrow2">Flèche2</string>
+    <string name="arrow">La Flèche</string>
+    <string name="humidity_24_">Humidité 24%</string>
+    <string name="gas_levels_safe">Niveaux de gaz: sûr</string>
+</resources>
