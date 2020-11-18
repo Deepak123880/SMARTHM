@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".activities.RegisterActivity"
-    android:background="@color/primaryWhite">
+    android:background="@drawable/gradient_background3">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/registerToolbar"

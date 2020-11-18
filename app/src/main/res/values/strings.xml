@@ -24,8 +24,9 @@
     <string name="arrow5">Arrow5</string>
     <string name="sensor_readings">Sensor Readings</string>
     <string name="no_trespassers">No Trespassers</string>
-    <string name="gas_levels_safe">Gas Levels: Safe</string>
     <string name="arrow4">Arrow4</string>
     <string name="arrow2">Arrow2</string>
     <string name="arrow">Arrow</string>
+    <string name="humidity_24_">Humidity: 24%</string>
+    <string name="gas_levels_safe">Gas Levels: Safe</string>
 </resources>

@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/primaryWhite"
-    tools:context=".activities.LoginActivity">
+    tools:context=".activities.LoginActivity"
+    android:background="@drawable/gradient_background2">
 
     <TextView
         android:id="@+id/loginPageTitle"
@@ -17,7 +17,7 @@
         android:layout_marginStart="25dp"
         android:text="@string/loginTitle"
         android:textColor="@color/primaryBlack"
-        android:textSize="24sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
